@@ -1,7 +1,10 @@
 # School_database
 This is a massive project concluded in Feb 2023 as a group. it is a shared effort from mysel and 2 colleagues: Zehra Usta and Amabel Nabila
 
-It can be deployed for school database management
+It can easily be deployed for school database management
+
+
+# The project uses Python for creation of the management system and connects to sqlite3 database package for running backend queries and storing data
 
 The project includes code to maintain the 
 ## Teachers and students record
